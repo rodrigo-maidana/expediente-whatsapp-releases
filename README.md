@@ -17,6 +17,7 @@ Aplicación de escritorio para **gestionar expedientes judiciales**, vinculando 
 
 ### 🚀 Instalación
 
-1. Descargá el archivo `.exe` desde los [releases](https://github.com/rodrigo-maidana/expediente-whatsapp-releases/releases)
+1. Descargá el archivo `.exe` desde el siguiente enlace:
+   - [**Descargar aquí**](https://github.com/rodrigo-maidana/expediente-whatsapp-releases/releases)
 2. Ejecutalo para completar la instalación
 3. Al iniciar la aplicación, ingresá tu licencia para activarla
