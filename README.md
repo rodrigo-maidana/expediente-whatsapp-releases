@@ -18,5 +18,5 @@ Aplicación de escritorio para **gestionar expedientes judiciales** vinculando c
 ### 🚀 Instalación
 
 1. Descargá el archivo `.exe` desde los releases
-2. Ejecutalo directamente, no requiere instalación
+2. Ejecutalo para instalarlo
 3. Al iniciar por primera vez ingresá tu licencia
